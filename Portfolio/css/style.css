@@ -1,6 +1,6 @@
 body{
     background-image: url("https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1952&q=80");
-    background-size: 120%;
+    background-size: 125%;
     background-position-y: 22%;
     background-position-x: 30%;
     background-repeat: no-repeat;
@@ -33,9 +33,9 @@ h3{
 }
 .photo{
     display: inline-block;
-    width:75%;
+    width:77%;
     margin-top: 1%;
-    margin-left:auto;
+    margin-left:38px;
     margin-right:auto;
     border:10px solid white;
 }
@@ -55,5 +55,5 @@ p{
     height: 200px;
 }
 .right{
-    margin-top: 23%;
+    margin-top: 30%;
 }
